@@ -1,0 +1,10 @@
+people
+car
+bicycle
+electric bicycle
+basketball
+ping_pong
+goose
+cat
+bird
+UAV
