@@ -57,7 +57,7 @@ if __name__ == "__main__":
         while True:
             img = input('Input image filename:')
             waiting = input("wait")
-            img = '/home/lhl/Git/datasets/EvDET200K/Event_Frame/data/val/recording_2024-06-25_16-12-45/0000.png'
+            img = '/home/lhl/Git/test.png'
             try:
                 image = Image.open(img)
             except:
